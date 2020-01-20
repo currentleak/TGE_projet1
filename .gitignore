@@ -2,9 +2,9 @@
 *.PrjPCBStructure
 *.PrjPcbStructure
 *.*_loc
-Project Outputs*
-Generate Files*
 
+Generate Files*
+Project Outputs*
 Project Logs*
 History*
 backup
@@ -12,8 +12,7 @@ old
 *_old.*
 
 *.zip
-*.xls
-*.xlsx
+
 *.rep
 *.Cam
 *.htm
